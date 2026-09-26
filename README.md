@@ -1,4 +1,9 @@
 # Churn_Analysis
+
+<p align="center">
+  <img src="Churn_Analysis_banner.png" alt="Churn Analysis Project Banner" width="100%">
+</p>
+
 # 📊 Churn Analysis and Customer Intelligence
 
 ## Overview
